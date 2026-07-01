@@ -25,6 +25,8 @@
 - Data Analytics
 - Machine Learning
 - Scientific Computing
+- Space Weather and Solar Flares
+- Solar Active regions
 - Python Development
 - AI Evaluation
 
