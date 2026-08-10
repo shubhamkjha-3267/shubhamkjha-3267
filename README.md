@@ -1,161 +1,216 @@
 <div align="center">
 
-# Hi 👋 I'm Shubham Kumar Jha
+# 👋 Hi, I'm Shubham Kumar Jha
 
-### Data Analyst • Research Data Analyst • Python Developer • Scientific Computing • Aspiring Data Scientist
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Analytics;Python+%7C+SQL+%7C+Power+BI;Research+Data+Analysis;Scientific+Computing;Machine+Learning+Enthusiast;Always+Learning+Something+New"/>
+### Data Analyst • Research Data Analyst • Python Developer • Aspiring Data Scientist
 
 <p>
   <a href="https://github.com/shubhamkjha-3267">
-    <img src="https://img.shields.io/badge/GitHub-shubhamkjha--3267-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/shubham-jha-5163472bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sjha31190@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Turning+data+into+actionable+insights;Python+%7C+SQL+%7C+Power+BI;Research+Data+Analysis;Scientific+Computing;Building+toward+Data+Science;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-I am a **Data Analyst and Research Data Analyst** with **3+ years of experience** working with computational physics, scientific computing, Python-based data workflows, and complex datasets.
+I'm a **Research Data Analyst and Python Developer** with **3+ years of experience** in computational physics, scientific computing, data analysis, and research workflows.
 
-My background in Physics has trained me to approach problems systematically: understand the data, validate assumptions, identify patterns, and communicate results clearly. I am now applying that analytical mindset to **business and real-world data problems** while building toward a career in **Data Science**.
+My background is in Physics, where I've worked with complex scientific datasets, statistical analysis, time-series data, visualization, and Python-based computational workflows.
 
-- 🎓 **M.Sc. Physics — NIT Manipur**
-- 🏛 **Former Junior Research Fellow — Indian Institute of Astrophysics**
-- 🏛 **Junior Research Fellow — NIT Delhi**
-- 🔬 Experience with scientific data analysis, statistical analysis, time-series analysis, and computational workflows
-- 📊 Building practical projects in **Data Analytics, SQL, Python, and Power BI**
-- 🤖 Currently expanding into **Machine Learning and Data Science**
+I'm now applying that analytical foundation to **business and real-world data problems**, building practical projects with **SQL, Python, and Power BI**, while continuing to develop toward **Data Science and Machine Learning**.
 
-### What I enjoy working on
+### What I bring
 
-- Data cleaning and exploratory data analysis
-- SQL-based business analysis
-- Data visualization and dashboard development
-- Statistical and time-series analysis
-- Scientific and research data
-- Python automation and analytical workflows
-- Machine Learning and applied Data Science
+- 🔎 **Analytical thinking** — breaking complex problems into measurable questions
+- 🐍 **Python** — data cleaning, analysis, automation, and visualization
+- 🗄️ **SQL** — business analysis, joins, CTEs, subqueries, and window functions
+- 📊 **Power BI** — dashboards, KPIs, and business storytelling
+- 📈 **Statistics** — exploratory, correlation, and time-series analysis
+- 🔬 **Research experience** — working with complex, noisy, multidimensional datasets
+- 💻 **Scientific computing** — reproducible workflows in Linux-based environments
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technical Skills
 
-### Data Analytics & Data Science
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### Visualization & BI
+### 📊 Data Analytics & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### Development & Tools
+### 📈 Visualization & Business Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-### Scientific Computing
+### 💻 Development & Environment
 
-**Python • NumPy • SciPy • SunPy • Astropy • Linux • IDL • Statistical Analysis • Time-Series Analysis**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+### 🔬 Scientific Computing
+
+`SunPy` · `Astropy` · `SciPy` · `NumPy` · `Python` · `IDL` · `Linux` · `Statistical Analysis` · `Time-Series Analysis`
 
 ---
 
-# 📊 Featured Data Analytics Projects
+# 🚀 Featured Projects
 
-## 🛒 Superstore Sales & Profitability Analysis
+## 📈 01 — Superstore Sales & Profitability Analysis
 
 **SQL + Python + Power BI**
 
-An end-to-end retail analytics project covering data cleaning, star-schema modeling, SQL business analysis, Python visualization, and dashboard development.
+An end-to-end retail analytics project built around a real historical Superstore dataset.
 
-**Key focus areas:**
-- Sales and profitability analysis
-- Discount vs. margin analysis
-- Product and category performance
-- Regional profitability
-- Shipping performance
-- Customer value
-- Power BI-ready star schema
+### What I built
 
-🌐 **[View Live Dashboard](https://shubhamkjha-3267.github.io/superstore-analysis/)**  
-📁 **[View Repository](https://github.com/shubhamkjha-3267/superstore-analysis)**
+- Cleaned and validated transactional data
+- Built a **star-schema data model**
+- Answered eight business questions using SQL
+- Performed profitability and discount analysis
+- Analyzed products, customers, regions, and shipping performance
+- Created Python visualizations
+- Prepared a Power BI-ready model with DAX/dashboard guidance
+- Built a browser-based interactive dashboard
+
+### Key questions
+
+> Which products are actually profitable?  
+> Where are losses concentrated?  
+> Do deeper discounts improve profitability?  
+> Which regions underperform?  
+> Are shipping delays related to priority?
+
+🌐 **[Live Interactive Dashboard](https://shubhamkjha-3267.github.io/superstore-analysis/)**  
+📁 **[View Project on GitHub](https://github.com/shubhamkjha-3267/superstore-analysis)**
 
 ---
 
-## 🛍️ E-Commerce Sales Analysis
+## 🛒 02 — E-Commerce Sales Analysis
 
 **SQL + Python**
 
-End-to-end transactional data analysis covering data cleaning, SQL business questions, Python-based visualization, and reproducible analytics workflows.
+An end-to-end transactional analytics project focused on turning messy order data into business insights.
 
-**Key focus areas:**
-- Data cleaning
-- SQL analysis
-- Revenue and order analysis
-- Product and regional performance
-- Business insights
-- Python visualization
+### What I built
 
-📁 **[View Repository](https://github.com/shubhamkjha-3267/ecommerce-sales-analysis)**
+- Cleaned inconsistent and messy transactional data
+- Used SQL for business-question analysis
+- Applied joins, CTEs, subqueries, `GROUP BY`, `HAVING`, and window functions
+- Built Python visualizations
+- Created a reproducible analysis pipeline
+- Documented findings and assumptions
+
+📁 **[View Project on GitHub](https://github.com/shubhamkjha-3267/ecommerce-sales-analysis)**
 
 ---
 
 # 🔬 Research & Scientific Computing
 
-My research background involves working with complex scientific datasets and computational workflows.
+Before moving deeper into data analytics, my work has focused on **computational physics and scientific data analysis**.
 
-Areas of experience include:
+### Areas of experience
 
 - ☀️ Solar active-region analysis
 - 🔥 Solar flare and CME studies
 - 🧲 Magnetic-field and magnetic-energy analysis
-- 📈 Time-series and statistical analysis
+- 📊 Statistical and time-series analysis
 - 🐍 Python-based scientific workflows
 - 🛰️ Scientific data processing and visualization
 - 💻 Linux-based computational environments
 
-This experience has strengthened my ability to work with **large, noisy, multidimensional datasets**, automate repetitive analysis, validate results, and communicate technical findings.
+My research experience has taught me to work with **large, complex, and noisy datasets**, validate assumptions, automate analysis, and communicate technical results clearly.
+
+I see this background as a strength rather than something separate from data analytics:
+
+> **The domain changes. The analytical mindset remains the same.**
+
+---
+
+# 🎓 Education
+
+**M.Sc. in Physics — NIT Manipur**
+
+**GATE (Physics) — Qualified**
+
+**Research Experience**
+- Indian Institute of Astrophysics
+- NIT Delhi
 
 ---
 
 # 📚 Currently Learning
 
-I'm currently building toward a broader **Data Science** skill set.
+I'm building toward a broader Data Science skill set through hands-on projects.
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
 - 📊 Advanced Statistics
 - 🗄️ Advanced SQL
-- 🔧 Data Engineering fundamentals
 - 📈 Advanced Power BI & DAX
+- 🔧 Data Engineering fundamentals
 - 🧪 Applied Data Science
 
-My approach is simple:
+### My learning approach
 
-> **Learn → Build → Analyze → Document → Improve**
+```text
+Learn
+  ↓
+Build
+  ↓
+Analyze
+  ↓
+Document
+  ↓
+Improve
+```
+
+I prefer **project-based learning**—using each project to understand not only how a tool works, but also why and when to use it.
 
 ---
 
-# 📈 GitHub Statistics
+# 🎯 Career Focus
+
+I'm interested in opportunities involving:
+
+| Area | Focus |
+|---|---|
+| 📊 **Data Analytics** | Business analysis, KPIs, visualization, insights |
+| 🔬 **Research Data Analysis** | Scientific and technical datasets |
+| 📈 **Business Intelligence** | Power BI, dashboards, reporting |
+| 🐍 **Python Analytics** | Data processing, automation, analysis |
+| 💻 **Scientific Computing** | Computational and research workflows |
+| 🤖 **Data Science** | Machine learning and applied analytics |
+| 🧪 **R&D** | Data-driven technical problem solving |
+
+I'm particularly interested in roles where I can combine **programming, statistics, analytical thinking, and domain knowledge** to solve meaningful problems.
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -165,9 +220,7 @@ My approach is simple:
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
@@ -177,7 +230,7 @@ My approach is simple:
 
 ---
 
-# 📊 GitHub Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -197,33 +250,18 @@ My approach is simple:
 
 ---
 
-# 🎯 What I'm Looking For
+# 🤝 Let's Connect
 
-I am interested in opportunities involving:
+I'm always interested in connecting with people working in **Data Analytics, Data Science, Business Intelligence, Scientific Computing, and Research**.
 
-- **Data Analytics**
-- **Research Data Analysis**
-- **Business Intelligence**
-- **Python-based Analytical Roles**
-- **Scientific Computing**
-- **Research & Development**
-- **Data Science / Machine Learning**
-
-I am particularly interested in roles where I can combine **analytical thinking, programming, statistics, and domain knowledge** to solve meaningful problems.
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-📧 **[sjha31190@gmail.com](mailto:sjha31190@gmail.com)**
-
-💼 **[LinkedIn](https://linkedin.com/in/shubham-jha-5163472bb)**
-
-🐙 **[GitHub](https://github.com/shubhamkjha-3267)**
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/shubham-jha-5163472bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sjha31190@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -231,6 +269,6 @@ I am particularly interested in roles where I can combine **analytical thinking,
 
 ### ⭐ Turning complex data into clear, useful insights.
 
-**Data Analytics • Python • SQL • Power BI • Scientific Computing • Data Science**
+**Python • SQL • Power BI • Data Analytics • Scientific Computing • Data Science**
 
 </div>
