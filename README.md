@@ -138,7 +138,7 @@ Before moving deeper into data analytics, my work has focused on **computational
 - 🔥 Solar flare and CME studies
 - 🧲 Magnetic-field and magnetic-energy analysis
 - 📊 Statistical and time-series analysis
-- 🐍 Python-based scientific workflows
+- 🐍 Python and IDL-based scientific workflows
 - 🛰️ Scientific data processing and visualization
 - 💻 Linux-based computational environments
 
