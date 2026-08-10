@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shubham Kumar Jha
+# 👋 Hi, I'm Shubham Jha
 
 ### Data Analyst • Research Data Analyst • Python Developer • Aspiring Data Scientist
 
