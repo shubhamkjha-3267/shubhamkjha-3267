@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shubham Jha
 
-### Data Analyst • Research Data Analyst • Python Developer • Aspiring Data Scientist
+### Research Data Analyst • Data Analyst • Python Developer • Aspiring Data Scientist
 
 <p>
   <a href="https://github.com/shubhamkjha-3267">
@@ -16,33 +16,38 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Turning+data+into+actionable+insights;Python+%7C+SQL+%7C+Power+BI;Research+Data+Analysis;Scientific+Computing;Building+toward+Data+Science;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Turning+complex+data+into+clear+insights;Python+%7C+SQL+%7C+Power+BI;Research+Data+Analysis;Statistical+Analysis+%7C+Machine+Learning;Scientific+Computing;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve"/>
 
 </div>
 
 ---
 
+
+
 ## 🧭 About Me
 
-I'm a **Research Data Analyst and Python Developer** with **3+ years of experience** in computational physics, scientific computing, data analysis, and research workflows.
+I'm a **Research Data Analyst and Python Developer** with 3+ years of experience working with computational physics, scientific datasets, statistical analysis, time-series data, visualization, and reproducible Python workflows.
 
-My background is in Physics, where I've worked with complex scientific datasets, statistical analysis, time-series data, visualization, and Python-based computational workflows.
+My background in Physics trained me to work with **large, noisy, multidimensional datasets**, formulate quantitative questions, validate assumptions, and communicate results clearly.
 
-I'm now applying that analytical foundation to **business and real-world data problems**, building practical projects with **SQL, Python, and Power BI**, while continuing to develop toward **Data Science and Machine Learning**.
+I'm now applying that analytical foundation to **data analytics, business intelligence, and data science**, with hands-on work in **Python, SQL, Power BI, statistics, machine learning, and scientific computing**.
 
 ### What I bring
 
-- 🔎 **Analytical thinking** — breaking complex problems into measurable questions
-- 🐍 **Python** — data cleaning, analysis, automation, and visualization
-- 🗄️ **SQL** — business analysis, joins, CTEs, subqueries, and window functions
-- 📊 **Power BI** — dashboards, KPIs, and business storytelling
-- 📈 **Statistics** — exploratory, correlation, and time-series analysis
-- 🔬 **Research experience** — working with complex, noisy, multidimensional datasets
-- 💻 **Scientific computing** — reproducible workflows in Linux-based environments
+- 🔎 **Analytical thinking** — translating complex questions into measurable, testable problems
+- 🐍 **Python** — data cleaning, EDA, automation, visualization, statistics, and ML workflows
+- 🗄️ **SQL** — joins, CTEs, subqueries, aggregations, window functions, and business analysis
+- 📊 **Power BI** — KPI design, dashboards, data modelling, and business storytelling
+- 📈 **Statistics** — correlation, hypothesis-oriented analysis, regression, cross-validation, and time-series analysis
+- 🤖 **Machine Learning** — supervised learning, feature engineering, model comparison, validation, and explainability
+- 🔬 **Research data analysis** — scientific datasets, uncertainty, reproducibility, and domain-informed modelling
+- 💻 **Scientific computing** — Linux, Jupyter, SunPy, Astropy, NumPy, SciPy, and Python-based workflows
 
----
+### Current direction
 
-## 🛠️ Technical Skills
+I'm building projects that connect **strong statistical foundations with practical data science**, while continuing research-oriented work on solar active regions, magnetic-field evolution, and flare productivity.
+
+# 🛠️ Technical Skills
 
 ### 📊 Data Analytics & Data Science
 
@@ -79,7 +84,53 @@ I'm now applying that analytical foundation to **business and real-world data pr
 
 # 🚀 Featured Projects
 
-## 📈 01 — Superstore Sales & Profitability Analysis
+## ☀️ 01 — Physics-Informed ML for Solar Active Regions
+
+**Python + Statistical Analysis + XGBoost + SHAP + Solar Physics**
+
+A research-oriented machine-learning study of **emerging solar active regions, magnetic-flux emergence, and flare productivity**, using published Kutsenko catalogues as a benchmark.
+
+### What I built
+
+- Analysed **423 emerging active regions** from the Kutsenko 2019 catalogue
+- Modelled magnetic-flux emergence rate using Linear Regression, Random Forest, and Gradient Boosting
+- Analysed **243 active regions** from the Kutsenko 2021 flare-productivity catalogue
+- Built binary flare-productivity classifiers using magnetic-region properties
+- Built continuous flare-productivity regression models using Random Forest and XGBoost
+- Performed controlled **feature-ablation experiments**
+- Applied repeated cross-validation
+- Used **SHAP, permutation importance, and interaction analysis** for model interpretation
+- Investigated feature redundancy between magnetic flux, emergence rate, and emergence duration
+- Designed a leakage-aware transition toward **time-resolved HMI/SHARP forecasting**
+
+### Key results
+
+| Analysis | Best result |
+|---|---:|
+| 2019 emergence-rate Gradient Boosting | **CV R² = 0.9169** |
+| 2021 flare classification — Phi only | **ROC-AUC = 0.8242** |
+| 2021 flare classification — Phi only | **PR-AUC = 0.5977** |
+| Controlled XGBoost regression — Phi only | **CV R² = 0.5435** |
+| Phi_max vs emergence-rate × duration | **Spearman ρ = 0.999982** |
+
+### Scientific insight
+
+The analysis shows that **maximum unsigned magnetic flux (`Phi_max`) is the strongest aggregate predictive signal** across several ML interpretation methods.
+
+A critical diagnostic also showed that the apparently dramatic importance of emergence duration is largely explained by the underlying relationship:
+
+\[
+\Phi_{\max}\approx R_{av}\times t_{\mathrm{emergence}}
+\]
+
+This project therefore combines ML performance with **physical interpretation, feature-dependence analysis, and leakage awareness**, rather than treating model importance as causal evidence.
+
+📁 **[View the full project on GitHub](https://github.com/shubhamkjha-3267/solar-ar-kutsenko-ml)**
+
+---
+
+
+## 📈 02 — Superstore Sales & Profitability Analysis
 
 **SQL + Python + Power BI**
 
@@ -109,7 +160,7 @@ An end-to-end retail analytics project built around a real historical Superstore
 
 ---
 
-## 🛒 02 — E-Commerce Sales Analysis
+## 🛒 03 — E-Commerce Sales Analysis
 
 **SQL + Python**
 
@@ -130,7 +181,7 @@ An end-to-end transactional analytics project focused on turning messy order dat
 
 # 🔬 Research & Scientific Computing
 
-Before moving deeper into data analytics, my work has focused on **computational physics and scientific data analysis**.
+Alongside my data-analytics projects, I continue to work on **computational physics and scientific data analysis**, including machine-learning analysis of solar active regions.
 
 ### Areas of experience
 
