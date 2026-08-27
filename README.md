@@ -58,6 +58,8 @@ I'm building projects that connect **strong statistical foundations with practic
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 </p>
 
 ### 📈 Visualization & Business Intelligence
@@ -65,6 +67,13 @@ I'm building projects that connect **strong statistical foundations with practic
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+### ⚡ Big Data & Distributed Computing
+
+<p>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 </p>
 
 ### 💻 Development & Environment
@@ -179,6 +188,41 @@ An end-to-end transactional analytics project focused on turning messy order dat
 
 ---
 
+## 🛒 04 — End-to-End Online Retail Analytics — Pandas & PySpark
+
+**Python + Pandas + PySpark + Scikit-learn + Apache Spark + Machine Learning**
+
+An end-to-end retail analytics project using the **UCI Online Retail II** transactional dataset, implemented in both **Pandas and PySpark** to combine business analytics with scalable data processing and machine learning.
+
+### What I built
+
+- Cleaned and validated large-scale transactional data, including missing values, duplicates, data types, and cancellation records
+- Performed exploratory and business-focused sales analysis
+- Built **RFM customer segmentation** using Recency, Frequency, and Monetary value
+- Developed a **cancellation prediction** workflow using feature engineering and Random Forest
+- Addressed severe class imbalance using class weighting and decision-threshold analysis
+- Compared Logistic Regression, Decision Tree, and Random Forest models using ROC-AUC
+- Achieved **ROC-AUC = 0.8448** with the final Pandas Random Forest model
+- Optimized the classification threshold to **0.60**, achieving **F1 = 0.3088** for the cancellation class
+- Reimplemented the workflow using **PySpark/Spark ML** to demonstrate distributed processing and scalable ML
+- Documented methodology, business implications, limitations, and future improvements
+
+### Key ML results
+
+| Metric | Final Random Forest |
+|---|---:|
+| ROC-AUC | **0.8448** |
+| Precision | **0.3163** |
+| Recall | **0.3016** |
+| F1-score | **0.3088** |
+| Selected threshold | **0.60** |
+
+> The cancellation class is highly imbalanced. Results are therefore interpreted using precision, recall, F1-score, and ROC-AUC rather than accuracy alone.
+
+📁 **[View Project on GitHub](https://github.com/shubhamkjha-3267/online-retail-analytics)**
+
+---
+
 # 🔬 Research & Scientific Computing
 
 Alongside my data-analytics projects, I continue to work on **computational physics and scientific data analysis**, including machine-learning analysis of solar active regions.
@@ -223,6 +267,7 @@ I'm building toward a broader Data Science skill set through hands-on projects.
 - 🗄️ Advanced SQL
 - 📈 Advanced Power BI & DAX
 - 🔧 Data Engineering fundamentals
+- ⚡ PySpark & Apache Spark
 - 🧪 Applied Data Science
 
 ### My learning approach
@@ -320,6 +365,6 @@ I'm always interested in connecting with people working in **Data Analytics, Dat
 
 ### ⭐ Turning complex data into clear, useful insights.
 
-**Python • SQL • Power BI • Data Analytics • Scientific Computing • Data Science**
+**Python • SQL • Pandas • PySpark • Power BI • Data Analytics • Scientific Computing • Data Science**
 
 </div>
