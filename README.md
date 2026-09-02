@@ -8,7 +8,7 @@
   <a href="https://github.com/shubhamkjha-3267">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/shubham-jha-5163472bb">
+  <a href="https://linkedin.com/in/shubhamkjha-datascience">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sjha31190@gmail.com">
