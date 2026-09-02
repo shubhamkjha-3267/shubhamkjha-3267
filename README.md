@@ -351,7 +351,7 @@ I'm particularly interested in roles where I can combine **programming, statisti
 I'm always interested in connecting with people working in **Data Analytics, Data Science, Business Intelligence, Scientific Computing, and Research**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-jha-5163472bb">
+  <a href="https://linkedin.com/in/shubhamkjha-datascience">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sjha31190@gmail.com">
